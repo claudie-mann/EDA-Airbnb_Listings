@@ -27,11 +27,11 @@ reviews.csv → historical review activity by listing.
 ## 🪜Process
 ### 1. Data Preparation
 
-Inspect each dataset and check for missing values. 
+Inspect each dataset and check for anomalies (Excel). 
 
 Look for outliers in price. 
 
-Merge reviews.csv with listings.csv to connect review activity to listing details.
+Merge reviews.csv with listings.csv to connect review activity to listing details (Join in SQL).
 
 ### 2. Descriptive Analysis
 
